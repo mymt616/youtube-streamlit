@@ -1,0 +1,35 @@
+@37dan427?31_geZzoq1hyvvabyrtyjaay_134049dvccdrre_Fgcggr_gyhHhhytr_dgghhyrd,427?@_@—¥
+https://github.com/mymt616/youtube-streamlit.git
+
+
+デモ
+ターミナル
+
+streamlit hello
+
+  Welcome to Streamlit. Check out our demo in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.10.13:8501
+
+  Ready to create your own Python apps super quickly?
+  Head over to https://docs.streamlit.io
+
+  May you create awesome apps!
+
+
+実行
+streamlit run main.py
+
+streamlit run 実行ファイル名.py
+
+バッククォートは　SHIFT + @で出る
+
+docs→reference guides → API reference → Display data
+
+
+選択範囲のブロックコメント化／コメント化解除をトグル
+Windows／Linux：
+［Ctrl］＋［/］キー
+macOS：
+［Command］＋［/］キー
